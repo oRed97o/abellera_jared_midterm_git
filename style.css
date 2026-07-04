@@ -27,6 +27,16 @@ p {
   margin-bottom: 18px;
   line-height: 1.6;
 }
+#about-me {
+  background: #ffffff;
+  border: 1px solid #d1d5db;
+  border-radius: 10px;
+  padding: 20px;
+  margin-bottom: 24px;
+}
+#about-me p {
+  margin-bottom: 8px;
+}
 #skills {
   background: #ffffff;
   border: 1px solid #d1d5db;
